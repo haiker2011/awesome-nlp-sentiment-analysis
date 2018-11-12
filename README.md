@@ -18,6 +18,23 @@
 - [A Question Answering Approach to Emotion Cause Extraction](https://www.aclweb.org/anthology/D17-1167)
 > 
 
-## 
-
 ## 评价对象和评价词抽取
+- [使用深度长短时记忆模型对于评价词和评价对象的联合抽取](http://jcip.cipsc.org.cn/CN/abstract/abstract2522.shtml)
+- [基于语义和句法依存特征的评论对象抽取研究](http://jcip.cipsc.org.cn/CN/abstract/abstract2585.shtml)
+- [基于条件随机场的评价对象缺省项识别](http://jcip.cipsc.org.cn/CN/abstract/abstract2317.shtml)
+- [基于CRFs和领域本体的中文微博评价对象抽取研究](http://jcip.cipsc.org.cn/CN/abstract/abstract2260.shtml)
+- [基于微博的情感倾向性分析方法研究](http://jcip.cipsc.org.cn/CN/abstract/abstract229.shtml)
+- [基于迭代两步CRF模型的评价对象与极性抽取研究](http://jcip.cipsc.org.cn/CN/abstract/abstract53.shtml)
+- [基于句法特征的评价对象抽取方法研究](http://jcip.cipsc.org.cn/CN/abstract/abstract172.shtml)
+- [基于层叠CRFs的中文句子评价对象抽取](http://jcip.cipsc.org.cn/CN/abstract/abstract1718.shtml)
+- [评价对象及其倾向性的抽取和判别](http://jcip.cipsc.org.cn/CN/abstract/abstract1633.shtml)
+- [基于非完备信息系统的评价对象情感聚类](http://jcip.cipsc.org.cn/CN/abstract/abstract1634.shtml)
+- [基于CRFs的评价对象抽取特征研究](http://jcip.cipsc.org.cn/CN/abstract/abstract1588.shtml)
+- [基于核心句及句法关系的评价对象抽取](http://jcip.cipsc.org.cn/CN/abstract/abstract1478.shtml)
+- [面向特定领域的产品评价对象自动识别研究](http://jcip.cipsc.org.cn/CN/abstract/abstract1332.shtml)
+- [评价对象抽取及其倾向性分析](http://jcip.cipsc.org.cn/CN/abstract/abstract1331.shtml)
+- []()
+
+# Codes
+
+# DataSet
