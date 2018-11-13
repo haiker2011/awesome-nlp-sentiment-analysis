@@ -19,6 +19,7 @@
 > 
 
 ## 评价对象和评价词抽取
+- [评价对象抽取研究综述](http://www.aas.net.cn/CN/10.16383/j.aas.2017.c170049)
 - [使用深度长短时记忆模型对于评价词和评价对象的联合抽取](http://jcip.cipsc.org.cn/CN/abstract/abstract2522.shtml)
 - [基于语义和句法依存特征的评论对象抽取研究](http://jcip.cipsc.org.cn/CN/abstract/abstract2585.shtml)
 - [基于条件随机场的评价对象缺省项识别](http://jcip.cipsc.org.cn/CN/abstract/abstract2317.shtml)
