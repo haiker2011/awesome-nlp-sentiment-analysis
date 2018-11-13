@@ -1,7 +1,7 @@
 # awesome-nlp
 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取等方面。
 
-# Papers
+# :book: Papers
 
 ## 情感分析
 
@@ -36,9 +36,9 @@
 - [评价对象抽取及其倾向性分析](http://jcip.cipsc.org.cn/CN/abstract/abstract1331.shtml)
 - []()
 
-# Codes
+# :speak_no_evil: Codes
 
-# Dataset
+# :floppy_disk: Dataset
 
 ## 评价对象和评价词抽取
 - [SemEval-2014 Task 4](http://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools)
