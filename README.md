@@ -20,6 +20,7 @@
 
 ## 评价对象和评价词抽取
 - Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings [[Paper]](https://pdfs.semanticscholar.org/8208/43544be57efa903ce14d6967b0eeafd6a7ed.pdf) [[Code]](https://github.com/pdsujnow/opinion-target)
+- Character-based BiLSTM-CRF Incorporating POS and Dictionaries for Chinese Opinion Target Extraction [[Paper]](http://proceedings.mlr.press/v95/li18d/li18d.pdf) [[Code]](https://github.com/kdsec/chinese-opinion-target-extraction)
 - 评价对象抽取研究综述 [[Paper]](http://www.aas.net.cn/CN/10.16383/j.aas.2017.c170049)
 - 使用深度长短时记忆模型对于评价词和评价对象的联合抽取 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract2522.shtml)
 - 基于语义和句法依存特征的评论对象抽取研究 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract2585.shtml)
