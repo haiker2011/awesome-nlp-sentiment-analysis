@@ -12,11 +12,12 @@
 
 - Event-Driven Emotion Cause Extraction with Corpus Construction [[Paper]](http://www.aclweb.org/anthology/D16-1170)
 
-
 - A Question Answering Approach to Emotion Cause Extraction [[Paper]](https://www.aclweb.org/anthology/D17-1167)
 
 ## 评价对象和评价词抽取
 - Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings [[Paper]](https://pdfs.semanticscholar.org/8208/43544be57efa903ce14d6967b0eeafd6a7ed.pdf) [[Code]](https://github.com/pdsujnow/opinion-target)
+- Character-based BiLSTM-CRF Incorporating POS and Dictionaries for Chinese Opinion Target Extraction [[Paper]](http://proceedings.mlr.press/v95/li18d/li18d.pdf) [[Code]](https://github.com/kdsec/chinese-opinion-target-extraction)
+- A Unified Model for Opinion Target Extraction and Target Sentiment Prediction[[Paper]](https://arxiv.org/abs/1811.05082)[[Code]](https://github.com/lixin4ever/E2E-TBSA)
 - 评价对象抽取研究综述 [[Paper]](http://www.aas.net.cn/CN/10.16383/j.aas.2017.c170049)
 - 使用深度长短时记忆模型对于评价词和评价对象的联合抽取 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract2522.shtml)
 - 基于语义和句法依存特征的评论对象抽取研究 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract2585.shtml)
@@ -32,6 +33,7 @@
 - 基于核心句及句法关系的评价对象抽取 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract1478.shtml)
 - 面向特定领域的产品评价对象自动识别研究 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract1332.shtml)
 - 评价对象抽取及其倾向性分析 [[Paper]](http://jcip.cipsc.org.cn/CN/abstract/abstract1331.shtml)
+
 
 
 # :floppy_disk: Dataset
