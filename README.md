@@ -9,14 +9,10 @@
 ## 情绪归因
 
 - An Ensemble Approach for Emotion Cause Detection with Event Extraction and Multi-Kernel SVMs [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195347)
-> 
 
 - Event-Driven Emotion Cause Extraction with Corpus Construction [[Paper]](http://www.aclweb.org/anthology/D16-1170)
-> 
-
 
 - A Question Answering Approach to Emotion Cause Extraction [[Paper]](https://www.aclweb.org/anthology/D17-1167)
-> 
 
 ## 评价对象和评价词抽取
 - Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings [[Paper]](https://pdfs.semanticscholar.org/8208/43544be57efa903ce14d6967b0eeafd6a7ed.pdf) [[Code]](https://github.com/pdsujnow/opinion-target)
