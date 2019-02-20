@@ -5,7 +5,7 @@
 
 ## 情感分析
 
-1. **Deep Learning or Sentiment nalysis： A Survey.**
+1. **Deep Learning or Sentiment nalysis: A Survey.**
 [paper](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)
 
 ## 情绪归因
