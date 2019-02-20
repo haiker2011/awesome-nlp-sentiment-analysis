@@ -5,6 +5,8 @@
 
 ## 情感分析
 
+1. **Deep Learning or Sentiment nalysis A Survey.**
+[paper]()
 
 ## 情绪归因
 
@@ -16,6 +18,31 @@
 
 3. **A Question Answering Approach to Emotion Cause Extraction.** 
 [paper](https://www.aclweb.org/anthology/D17-1167)
+
+4. **A Bootstrap Method for Automatic Rule Acquisition on Emotion Cause Extraction.**
+[paper](http://sentic.net/sentire2017yada.pdf)
+
+5. **Emotion Cause Detection for Chinese Micro-Blogs Based on ECOCC Model.**
+[paper](https://link.springer.com/chapter/10.1007/978-3-319-18032-8_1)
+
+6. **Emotion Cause Detection with Linguistic Constructions.**
+[paper](https://link.springer.com/chapter/10.1007/978-3-662-45924-9_42)
+
+7. **Emotion Cause Extraction, A Challenging Task with Corpus Construction.**
+[paper](https://link.springer.com/chapter/10.1007/978-981-10-2993-6_8)
+
+8. **Extracting Causes of Emotions from Text.**
+[paper](http://aclweb.org/anthology/I13-1121)
+
+9. **基于E-CNN神经网络的情绪原因识别方法.**
+[paper](http://jcip.cipsc.org.cn/CN/Y2018/V32/I2/120)
+
+10. **基于序列标注模型的情绪原因识别方法.**
+[paper](http://jcip.cipsc.org.cn/CN/abstract/abstract1756.shtml)
+
+11. **基于文本的情绪自动归因方法研究.**
+[paper](http://cdmd.cnki.com.cn/Article/CDMD-10213-1015979471.htm)
+
 
 ## 评价对象和评价词抽取
 4. **Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings.** 
