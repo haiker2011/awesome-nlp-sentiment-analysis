@@ -109,6 +109,8 @@
 23. **Recursive neural conditional random fields for aspect-based sentiment analysis.**
 [paper](https://www.aclweb.org/anthology/D16-1059)
 
+24. **Coupled multi-layer attentions for co-extraction of aspect and opinion terms.**
+[paper](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
 
 # :floppy_disk: Dataset
 
