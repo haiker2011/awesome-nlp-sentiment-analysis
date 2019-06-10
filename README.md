@@ -45,6 +45,7 @@
 
 
 ## 评价对象和评价词抽取
+
 4. **Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings.** 
 [paper](https://pdfs.semanticscholar.org/8208/43544be57efa903ce14d6967b0eeafd6a7ed.pdf) 
 [code](https://github.com/pdsujnow/opinion-target)
@@ -102,6 +103,11 @@
 21. **评价对象抽取及其倾向性分析.** 
 [paper](http://jcip.cipsc.org.cn/CN/abstract/abstract1331.shtml)
 
+22. **Aspect extraction for opinion mining with a deep convolutional neural network.**
+[paper](https://ww.w.sentic.net/aspect-extraction-for-opinion-mining.pdf)
+
+23. **Recursive neural conditional random fields for aspect-based sentiment analysis.**
+[paper](https://www.aclweb.org/anthology/D16-1059)
 
 
 # :floppy_disk: Dataset
