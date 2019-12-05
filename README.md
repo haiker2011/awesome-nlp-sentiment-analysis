@@ -43,6 +43,12 @@
 11. **基于文本的情绪自动归因方法研究.**
 [paper](http://cdmd.cnki.com.cn/Article/CDMD-10213-1015979471.htm)
 
+12. **A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness.**
+[paper](https://www.aclweb.org/anthology/D18-1506.pdf)
+
+13. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts.**
+[paper](https://arxiv.org/pdf/1906.01267.pdf)
+[code](https://github.com/NUSTM/ECPE)
 
 ## 评价对象和评价词抽取
 
@@ -121,3 +127,5 @@
 - [中文微博情感分析测评数据](https://mlln.cn/2018/10/11/%E4%B8%AD%E6%96%87%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E8%AF%AD%E6%96%99%E5%BA%93%E5%A4%A7%E5%85%A8-%E5%B8%A6%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/)
 
 - [百度、马蜂窝和大众点评数据集](https://github.com/lsvih/chinese-customer-review)
+
+- [情感原因对数据集](https://github.com/NUSTM/ECPE/tree/master/data_combine)
